@@ -1,0 +1,34 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Hp\\.conda\\pkgs\\typing-3.10.0.0-py311haa95532_0",
+  "features": "",
+  "files": [],
+  "fn": "typing-3.10.0.0-py311haa95532_0.conda",
+  "legacy_bz2_md5": "933fbf329178e53efafa57c3cd401f59",
+  "license": "PSF",
+  "link": {
+    "source": "C:\\Users\\Hp\\.conda\\pkgs\\typing-3.10.0.0-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "4234afb4817eb6ee6aba17adf72a429f",
+  "name": "typing",
+  "package_tarball_full_path": "C:\\Users\\Hp\\.conda\\pkgs\\typing-3.10.0.0-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "typing",
+  "sha256": "5884047ed376ad30aab35c2b651aff5ffa6b16b06b0b1841cfe2c33f990a1763",
+  "size": 8690,
+  "subdir": "win-64",
+  "timestamp": 1676495474721,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/typing-3.10.0.0-py311haa95532_0.conda",
+  "version": "3.10.0.0"
+}
